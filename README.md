@@ -11,7 +11,7 @@ Deep Learning
 </div>
 
 <hr/>
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cindyand1q2@gmail.com)](cindyand1q2@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cindyand1q2@gmail.com)](cindyand1q2@gmail.com)
 
 
 
