@@ -3,7 +3,7 @@
 
 
 <div align="center">
- INTEREST<br/>
+ <h2>INTEREST</h2><br/>
 Machine Learning<br/>
 Deep Learning 
 
