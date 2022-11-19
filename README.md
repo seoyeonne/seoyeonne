@@ -1,11 +1,11 @@
 
 
-<div align="center">
-#### INTEREST
-##### Machine Learning<br/>
-##### Deep Learning
 
-Machine Learning<br/>
+#### INTEREST
+##### Machine Learning
+<br/>
+##### Deep Learning
+<br/>
 Deep Learning
 <br/>
  <hr/>
