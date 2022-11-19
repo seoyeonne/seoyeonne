@@ -3,8 +3,9 @@
 
 <div align="center">
  
-  ###Deep Learning <br/>
-  ###Machine Learning
+ <h4>Machine Learning</h4> <br/>
+ <h4>Deep Learning</h4>
+
  
  <hr/>
  
