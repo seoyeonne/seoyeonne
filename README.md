@@ -3,7 +3,7 @@
 
 <div align="center">
  
- <h4>Machine Learning</h4> <br/>
+ <h4>Machine Learning</h4>.  
  <h4>Deep Learning</h4>
 
  
