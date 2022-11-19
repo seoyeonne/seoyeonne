@@ -3,7 +3,7 @@
 
 <div align="center">
  
- **Machine Learning** 
+ **Machine Learning** <br/>
  **Deep Learning**
 
 
