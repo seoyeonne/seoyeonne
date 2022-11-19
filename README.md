@@ -1,10 +1,10 @@
-### SEOYEON 
+## SEOYEON 
 
 
 <div align="center">
  
- **Machine Learning** <br/>
- **Deep Learning**
+ ######**Machine Learning** <br/>
+ ######**Deep Learning**
 
 
  
