@@ -1,7 +1,7 @@
 
 <div align="center">
 <h3>INTEREST</h3>
- <h5 line-height:1.0 >Machine Learning<br/>
+ <h5>Machine Learning<br/>
   Deep Learning</h5>
  <hr/>
  <div align="center">
