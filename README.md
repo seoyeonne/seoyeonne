@@ -1,3 +1,3 @@
-<span style="font-size:50%">Hallym University</span>   
-<span style="font-size:50%">major : Bigdata (4th grade)</span>   
-<span style="font-size:50%">Interests : Deep learning, Machine learning</span>   
+<span style="font-size:50%"><strong>Hallym University</strong></span>   
+<span style="font-size:50%"><strong>major : Bigdata (4th grade)</strong></span>   
+<span style="font-size:50%"><strong>Interests : Deep learning, Machine learning</strong></span>   
