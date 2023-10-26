@@ -1,4 +1,3 @@
-### Info
 
 <span style="font-size:50%">Name: 황서연 </span>    
 <span style="font-size:50%">University : Hallym University</span>   
